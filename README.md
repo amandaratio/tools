@@ -1,4 +1,4 @@
-# random tools i've built
+# random tools i've built (repo links)
 
 > [CLI: Collect + Export Functions from Python File(s)](https://github.com/amandaratio/collect)
 
